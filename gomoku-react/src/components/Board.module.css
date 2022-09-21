@@ -1,0 +1,14 @@
+.board {
+  background-color: saddlebrown;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1px;
+  align-items: center;
+}
+
+.row {
+  display: inline-flex;
+  gap: 1px;
+}

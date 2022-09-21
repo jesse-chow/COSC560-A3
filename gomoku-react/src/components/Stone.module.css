@@ -1,0 +1,24 @@
+.stone {
+    cursor: pointer;
+    border-radius: 100%;
+    width: 3rem;
+    height: 3rem;
+    background-color: #bbb;
+    margin: 0.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .stone.black {
+    cursor: not-allowed;
+    background-color: #000;
+    color: white;
+  }
+  
+  .stone.white {
+    cursor: not-allowed;
+    background-color: #fff;
+  }

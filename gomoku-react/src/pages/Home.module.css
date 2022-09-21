@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 30%;
+}
+
+.select {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 1.25rem;
+    width: 100%;
+    display: block;
+    font-size: 1.5rem;
+    padding: 0.8rem;
+    border-radius: 0.5rem;
+}
+
+.label {
+  width: 100%;
+  font-size: 1.8rem;
+  font-weight: bolder;
+  text-align: center;
+}

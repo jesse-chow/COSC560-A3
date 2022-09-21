@@ -1,0 +1,17 @@
+.board {
+  width: fit-content;
+  margin: 2rem auto;
+}
+
+.message {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  gap: 2rem;
+  width: 30%;
+  margin: 1rem auto;
+}
